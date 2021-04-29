@@ -17,11 +17,14 @@
   * [PHPStorm](https://github.com/0xAiKang/favorite-link#PHPStorm)
 * [面试](https://github.com/0xAiKang/favorite-link#面试)
 
+## Git
 
+* [Git](https://github.com/0xAiKang/favorite-link#Git)
 
 ## PHP
 
 * [PHPer、Gopher、成长之路](https://github.com/TIGERB/easy-tips)
+* [PHP 开发知识架构](https://github.com/han8gui/PHPer)
 
 
 
@@ -54,4 +57,8 @@
 
 
 
+
+## Git
+
+* [让你的 Git 拥有不同身份](https://www.fengerzh.com/git-id/)
 
