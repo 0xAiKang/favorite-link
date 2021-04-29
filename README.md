@@ -6,7 +6,7 @@
 
 ## PHP
 
-* [PHP](https://github.com/0xAiKang/favorite-link#PHP)
+* [PHP](https://github.com/0xAiKang/favorite-link#php-1)
 
 * 框架
   * [Laravel](https://github.com/0xAiKang/favorite-link#Laravel)
