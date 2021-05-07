@@ -7,15 +7,14 @@
 ## PHP
 
 * [PHP](https://github.com/0xAiKang/favorite-link#php-1)
-
 * 框架
   * [Laravel](https://github.com/0xAiKang/favorite-link#Laravel)
   * [ThinkPHP](https://github.com/0xAiKang/favorite-link#ThinkPHP)
   * [Coole](https://github.com/0xAiKang/favorite-link#Coole)
-
 * 工具/扩展
   * [PHPStorm](https://github.com/0xAiKang/favorite-link#PHPStorm)
 * [面试](https://github.com/0xAiKang/favorite-link#面试)
+* [代码之外](https://github.com/0xAiKang/favorite-link#代码之外)
 
 ## Git
 
@@ -56,9 +55,12 @@
 
 
 
-
-
 ## Git
 
 * [让你的 Git 拥有不同身份](https://www.fengerzh.com/git-id/)
 
+
+
+### 代码之外
+
+* [程序猿如何优雅的挣零花钱](https://github.com/easychen/howto-make-more-money)
