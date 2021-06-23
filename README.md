@@ -51,16 +51,17 @@
 ### Laravel
 
 * [Laravel](https://github.com/laravel/laravel)
-
-* [Tips of Laravel](https://github.com/seekerliu/laravel-tips)
-
-* [智能检查代码](https://github.com/imanghafoori1/laravel-microscope)
-
+* [Tips of Laravel——Laravel 微课堂](https://github.com/seekerliu/laravel-tips)
+* [laravel-microscope——智能检查代码](https://github.com/imanghafoori1/laravel-microscope)
 * [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
-
 * [Eloquent Model Generator](https://github.com/krlove/eloquent-model-generator)
-
-  
+* [Rememberable, Laravel 5 query cache](https://github.com/dwightwatson/rememberable)
+* [Laravel Response Cache](https://github.com/spatie/laravel-responsecache)
+* [Lada Cache](https://github.com/spiritix/lada-cache)
+* [HTMLPurifier for Laravel——XSS 攻击过滤](https://github.com/mewebstudio/Purifier)
+* [Laravel Socialite——OAuth 身份验证集合](https://github.com/SocialiteProviders/Providers)
+* [Laravel Tips——Awesome tips for Laravel](https://github.com/LaravelDaily/laravel-tips#localhost-in-env)
+* [Laravel Code Tips](https://laravel-code.tips)
 
 ### Lumen
 
