@@ -12,6 +12,7 @@
   * [Lumenl](https://github.com/0xAiKang/favorite-link#Lumen)
   * [ThinkPHP](https://github.com/0xAiKang/favorite-link#ThinkPHP)
   * [Coole](https://github.com/0xAiKang/favorite-link#Coole)
+  * [Swoft](https://github.com/0xAiKang/favorite-link#Swoft)
 * 工具/扩展
   * [PHPStorm](https://github.com/0xAiKang/favorite-link#PHPStorm)
 * [设计模式](https://github.com/0xAiKang/favorite-link#设计模式)
@@ -51,6 +52,7 @@
 ### Laravel
 
 * [Laravel](https://github.com/laravel/laravel)
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 * [Tips of Laravel——Laravel 微课堂](https://github.com/seekerliu/laravel-tips)
 * [laravel-microscope——智能检查代码](https://github.com/imanghafoori1/laravel-microscope)
 * [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
@@ -62,20 +64,28 @@
 * [Laravel Socialite——OAuth 身份验证集合](https://github.com/SocialiteProviders/Providers)
 * [Laravel Tips——Awesome tips for Laravel](https://github.com/LaravelDaily/laravel-tips#localhost-in-env)
 * [Laravel Code Tips](https://laravel-code.tips)
+* [Monolog - Logging for PHP ](https://github.com/Seldaek/monolog)
+* [Laravel N+1 Query Detector](https://github.com/beyondcode/laravel-query-detector)
 
 ### Lumen
 
 * [基于 Laravel 的微框架 Lumen](http://lumen.laravel.com/)
 
-
+  
 
 ### ThinkPHP
 
-
+* [ThinkPHP Framework](https://github.com/top-think/framework)
 
 ### Coole
 
 * [一个基于开源组件包构建的 PHP 微框架 Coole](https://github.com/guanguans/coole)
+
+
+
+### Swoft
+
+* [PHP 微服务协程框架](https://github.com/swoft-cloud/swoft)
 
 
 
