@@ -9,10 +9,11 @@
 * [PHP](https://github.com/0xAiKang/favorite-link#php-1)
 * 框架
   * [Laravel](https://github.com/0xAiKang/favorite-link#Laravel)
-  * [Lumenl](https://github.com/0xAiKang/favorite-link#Lumen)
+  * [Lumen](https://github.com/0xAiKang/favorite-link#Lumen)
   * [ThinkPHP](https://github.com/0xAiKang/favorite-link#ThinkPHP)
-  * [Coole](https://github.com/0xAiKang/favorite-link#Coole)
   * [Swoft](https://github.com/0xAiKang/favorite-link#Swoft)
+  * [Phalcon](https://github.com/phalcon/cphalcon)
+  * [Yaf](https://github.com/laruence/yaf)
 * 工具/扩展
   * [PHPStorm](https://github.com/0xAiKang/favorite-link#PHPStorm)
 * [设计模式](https://github.com/0xAiKang/favorite-link#设计模式)
@@ -39,8 +40,6 @@
 * [PHPer、Gopher、成长之路](https://github.com/TIGERB/easy-tips)
 * [PHP 学习资源整理](https://github.com/ar414-com/php-source-lib)
 * [PHP 开发知识架构](https://github.com/han8gui/PHPer)
-* [PHP 实践快速参考指导](http://www.phptherightway.com/)
-* [PHP 最佳实践](https://phpbestpractices.org/)
 * [PHP 编码标准](https://github.com/jupeter/clean-code-php)
 * [PHP 周刊](http://www.phpweekly.com/archive.html)
 * [PHP 框架交互小组](http://www.php-fig.org/)
@@ -66,6 +65,8 @@
 * [Laravel Code Tips](https://laravel-code.tips)
 * [Monolog - Logging for PHP ](https://github.com/Seldaek/monolog)
 * [Laravel N+1 Query Detector](https://github.com/beyondcode/laravel-query-detector)
+* [Laravel-Swoole](https://github.com/swooletw/laravel-swoole)
+* [Laravel Best Practices——Laravel 最佳实践](https://github.com/alexeymezenin/laravel-best-practices/blob/master/chinese.md)
 
 ### Lumen
 
@@ -76,10 +77,6 @@
 ### ThinkPHP
 
 * [ThinkPHP Framework](https://github.com/top-think/framework)
-
-### Coole
-
-* [一个基于开源组件包构建的 PHP 微框架 Coole](https://github.com/guanguans/coole)
 
 
 
@@ -136,6 +133,8 @@
 
 ## Git
 
+* [Git 奇技淫巧](https://github.com/521xueweihan/git-tips)
+
 * [让你的 Git 拥有不同身份](https://www.fengerzh.com/git-id/)
 * [git branch大扫除](https://github.com/lujun9972/lujun9972.github.com/blob/source/linux%E5%92%8C%E5%AE%83%E7%9A%84%E5%B0%8F%E4%BC%99%E4%BC%B4/git%20branch%E5%A4%A7%E6%89%AB%E9%99%A4.org)
 
@@ -152,6 +151,10 @@
 ## 其他
 
 * [最好用的中文速查表](https://github.com/skywind3000/awesome-cheatsheets)
+* [You can learn anything](https://github.com/learn-anything)
+*  [一款克隆 Netflix 的 Web 应用](https://github.com/Th3Wall/Fakeflix)
+* [用 Markdown 写 PPT](https://github.com/slidevjs/slidev)
+* [Mac 改键神器](https://github.com/pqrs-org/Karabiner-Elements)
 
 
 
